@@ -1,9 +1,34 @@
-# TRACKY (UX/UI design)
+# TRACKY — Health & Lifestyle Tracking App (UX/UI Design)
 
-This project was completed in May 2024 as part of a school group assignment, with four students (including myself) collaborating on it.
+## Abstract
+TRACKY is a UX/UI design project for a mobile health-tracking application aimed at helping users monitor their sleep, nutrition, physical activity, and daily habits. The project followed a full user-centered design process: from user research and persona development, through wireframing and prototyping in Figma, to usability testing with external participants. The final deliverables include a high-fidelity interactive prototype, a usability test report, a poster, and a presentation.
 
-Throughout the process, we learned the principles of user experience design. We began by conducting interviews and distributing surveys to understand our audience’s needs. Then, we created personas and user stories, followed by sketches, storyboards, and user flow diagrams. Before moving to Figma, we evaluated our initial sketches and user flows to refine our ideas.
+## Design Process
+The project followed these stages:
 
-After completing the Figma prototype, we shared it with external participants, observed the time they took to complete assigned tasks, and gathered their feedback and recommendations.
+1. **User Research** 
+2. **Personas & User Stories** 
+3. **Sketches, Storyboards & User Flows** 
+4. **Evaluation** 
+5. **Figma Prototype** 
+6. **Usability Testing** 
 
-Finally, we wrapped up the project by preparing the presentation, poster, and a trailer, which we uploaded to YouTube.
+## Technologies Used
+- **Figma** 
+- **Google Forms** 
+
+## Deliverables
+| File | Description |
+|---|---|
+| TRACKY document.pdf | Full project report including research, methodology, and findings |
+| TRACKY Usability Test.pdf | Usability testing protocol, tasks, and results |
+| TRACKY poster.pdf | Visual project summary poster |
+| TRACKY presentation.pdf | Final presentation slides |
+
+## Developers
+- Salma Alboqami
+- Hussah Alotaibi
+- Rghad Mohsen
+- Noha Alrasheed
+
+This project was completed in May 2024.
